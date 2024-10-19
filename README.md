@@ -10,6 +10,7 @@
 ### Recomiendo esto asi, ya que Nitrado es bastante estricto con los requerimientos y cualquier cambio, podria inhabilitar el sistema.
 
 
-## Video Tutorial : 
+## Video Tutorial : https://youtu.be/VOfRawr4z50
+
 
 # Ante cualquier duda, revisa mi perfil para contactar conmigo, preferiblemente Discord.
